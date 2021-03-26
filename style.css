@@ -1,0 +1,102 @@
+.jum-home {
+    background-image: url("gambar2.jpg");
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+    clip-path: polygon(100% 0%, 100% 77%, 50% 100%, 0 75%, 0 0);
+    position: relative;
+}
+
+
+.jum-home h1 {
+    color: white;
+    font-style: unset;
+    margin-top: 200px;
+}
+.jum-home hr {
+    border-color: brown;
+    width: 70px;
+    border-width: 3;
+}
+
+.jum-home a {
+    color: white;
+    font-style: unset;
+    margin-top: 50px;
+}
+
+.jum-home p {
+    color: white;
+}
+
+.jum-home .btn {
+    border-radius: 25px;
+    border: 500;
+    border-color: black;
+}
+
+.hero {
+    margin-top: 100px;
+}
+
+.btn-home:hover {
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+    /* transform: translateY(-20px); */
+}
+
+.head-home{
+    background-color: rgba(156, 156, 134, 0.404);
+}
+/* ========================================================================================= */
+.jum-pen {
+    background-image: url("gambar3.jpg");
+    background-size: cover;
+    height: 610px;
+    position: relative;
+    text-align: right;
+}
+
+.jum-pen h1 {
+    color: white;
+    font-style: unset;
+    margin-top: 150px;
+}
+
+.jum-pen hr {
+    border-color: brown;
+    width: 300px;
+    border-width: 3;
+    margin-left: 770px ;
+}
+
+.jum-pen a {
+    color: white;
+    font-style: unset;
+    margin-top: 50px;
+}
+
+.jum-pen p {
+    color: white;
+}
+
+.jum-pen .btn {
+    border-radius: 25px;
+    border: 500;
+    border-color: black;
+}
+
+.card:hover {
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+    transform: translateY(-20px); 
+}
+
+.vidoe{
+    text-align: center;
+}
+.judul{
+    text-align: center;
+}
+
+.body-sta{
+    background-color: rgba(156, 156, 134, 0.404);
+}
